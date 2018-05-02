@@ -1,0 +1,90 @@
+2018-02-23 22:18:49 TRACE ERSystemDAOJDBC:24 - method called to insert new ticket
+2018-02-23 22:18:49 TRACE ERSystemDAOJDBC:25 - Attempting to get connection to db
+2018-02-23 22:18:51 TRACE ERSystemDAOJDBC:27 - connection established with db, creating prepared statement
+2018-02-23 22:18:51 WARN  ERSystemDAOJDBC:47 - failed to insert new ticket
+2018-02-23 22:21:31 TRACE ERSystemDAOJDBC:24 - method called to insert new ticket
+2018-02-23 22:21:31 TRACE ERSystemDAOJDBC:25 - Attempting to get connection to db
+2018-02-23 22:21:32 TRACE ERSystemDAOJDBC:27 - connection established with db, creating prepared statement
+2018-02-23 22:21:32 WARN  ERSystemDAOJDBC:47 - failed to insert new ticket
+2018-02-23 22:28:45 TRACE ERSystemDAOJDBC:24 - method called to insert new ticket
+2018-02-23 22:28:45 TRACE ERSystemDAOJDBC:25 - Attempting to get connection to db
+2018-02-23 22:28:49 TRACE ERSystemDAOJDBC:27 - connection established with db, creating prepared statement
+2018-02-23 22:28:49 WARN  ERSystemDAOJDBC:47 - failed to insert new ticket
+2018-02-23 22:41:49 TRACE ERSystemDAOJDBC:26 - method called to insert new ticket
+2018-02-23 22:41:49 TRACE ERSystemDAOJDBC:27 - Attempting to get connection to db
+2018-02-23 22:41:50 TRACE ERSystemDAOJDBC:29 - connection established with db, creating prepared statement
+2018-02-23 22:41:50 WARN  ERSystemDAOJDBC:50 - failed to insert new ticket
+2018-02-23 23:22:28 TRACE ERSystemDAOJDBC:28 - method called to insert new ticket
+2018-02-23 23:22:28 TRACE ERSystemDAOJDBC:29 - Attempting to get connection to db
+2018-02-23 23:22:29 TRACE ERSystemDAOJDBC:31 - connection established with db, creating prepared statement
+2018-02-23 23:22:30 WARN  ERSystemDAOJDBC:52 - failed to insert new ticket
+2018-02-23 23:23:37 TRACE ERSystemDAOJDBC:28 - method called to insert new ticket
+2018-02-23 23:23:37 TRACE ERSystemDAOJDBC:29 - Attempting to get connection to db
+2018-02-23 23:23:37 TRACE ERSystemDAOJDBC:31 - connection established with db, creating prepared statement
+2018-02-23 23:23:38 WARN  ERSystemDAOJDBC:52 - failed to insert new ticket
+2018-02-23 23:25:15 TRACE ERSystemDAOJDBC:28 - method called to insert new ticket
+2018-02-23 23:25:15 TRACE ERSystemDAOJDBC:29 - Attempting to get connection to db
+2018-02-23 23:25:21 TRACE ERSystemDAOJDBC:31 - connection established with db, creating prepared statement
+2018-02-23 23:25:21 WARN  ERSystemDAOJDBC:52 - failed to insert new ticket
+2018-02-23 23:28:23 TRACE ERSystemDAOJDBC:28 - method called to insert new ticket
+2018-02-23 23:28:23 TRACE ERSystemDAOJDBC:29 - Attempting to get connection to db
+2018-02-23 23:28:29 TRACE ERSystemDAOJDBC:31 - connection established with db, creating prepared statement
+2018-02-23 23:28:29 WARN  ERSystemDAOJDBC:52 - failed to insert new ticket
+2018-02-23 23:31:39 TRACE ERSystemDAOJDBC:28 - method called to insert new ticket
+2018-02-23 23:31:39 TRACE ERSystemDAOJDBC:29 - Attempting to get connection to db
+2018-02-23 23:31:48 TRACE ERSystemDAOJDBC:31 - connection established with db, creating prepared statement
+2018-02-23 23:31:48 DEBUG ERSystemDAOJDBC:44 - query inserted 1 rows into the db
+2018-02-24 00:01:56 TRACE ERSystemDAOJDBC:28 - method called to insert new ticket
+2018-02-24 00:01:56 TRACE ERSystemDAOJDBC:29 - Attempting to get connection to db
+2018-02-24 00:02:01 TRACE ERSystemDAOJDBC:31 - connection established with db, creating prepared statement
+2018-02-24 00:02:01 DEBUG ERSystemDAOJDBC:43 - query inserted 1 rows into the db
+2018-02-24 00:21:41 TRACE ERSystemDAOJDBC:88 - method called to select ticket with id 2
+2018-02-24 00:21:41 TRACE ERSystemDAOJDBC:89 - Attempting to get connection to db
+2018-02-24 00:23:25 TRACE ERSystemDAOJDBC:88 - method called to select ticket with id 2
+2018-02-24 00:23:25 TRACE ERSystemDAOJDBC:89 - Attempting to get connection to db
+2018-02-24 09:44:05 TRACE ERSystemDAOJDBC:71 - method called to update ticket #3
+2018-02-24 09:44:05 TRACE ERSystemDAOJDBC:72 - Attempting to get connection to db
+2018-02-24 09:44:08 TRACE ERSystemDAOJDBC:84 - updated 1 rows
+2018-02-24 09:45:20 TRACE ERSystemDAOJDBC:71 - method called to update ticket #999
+2018-02-24 09:45:20 TRACE ERSystemDAOJDBC:72 - Attempting to get connection to db
+2018-02-24 09:45:22 TRACE ERSystemDAOJDBC:84 - updated 1 rows
+2018-02-24 11:48:28 TRACE ERSystemDAOJDBC:63 - method called to update ticket #1
+2018-02-24 11:48:28 TRACE ERSystemDAOJDBC:64 - Attempting to get connection to db
+2018-02-24 11:48:35 WARN  ERSystemDAOJDBC:78 - failed to update ticket
+2018-02-24 13:37:07 TRACE ERSystemDAOJDBC:63 - method called to update ticket #1
+2018-02-24 13:37:07 TRACE ERSystemDAOJDBC:64 - Attempting to get connection to db
+2018-02-24 13:37:08 WARN  ERSystemDAOJDBC:78 - failed to update ticket
+2018-02-24 13:43:47 TRACE ERSystemDAOJDBC:63 - method called to update ticket #1
+2018-02-24 13:43:47 TRACE ERSystemDAOJDBC:64 - Attempting to get connection to db
+2018-02-24 13:43:49 TRACE ERSystemDAOJDBC:75 - updated 1 rows
+2018-02-24 13:53:50 TRACE ERSystemDAOJDBC:32 - method called to insert new ticket
+2018-02-24 13:53:50 TRACE ERSystemDAOJDBC:33 - Attempting to get connection to db
+2018-02-24 13:53:51 TRACE ERSystemDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-24 13:53:52 DEBUG ERSystemDAOJDBC:48 - query inserted 1 rows into the db
+2018-02-24 13:57:17 TRACE ERSystemDAOJDBC:63 - method called to update ticket #1008
+2018-02-24 13:57:17 TRACE ERSystemDAOJDBC:64 - Attempting to get connection to db
+2018-02-24 13:57:24 TRACE ERSystemDAOJDBC:75 - updated 1 rows
+2018-02-24 14:02:36 TRACE ERSystemDAOJDBC:81 - method called to select tickets by author id #2
+2018-02-24 14:02:36 TRACE ERSystemDAOJDBC:82 - Attempting to get connection to db
+2018-02-24 14:03:16 TRACE ERSystemDAOJDBC:106 - method called to select all tickets
+2018-02-24 14:03:16 TRACE ERSystemDAOJDBC:107 - Attempting to get connection to db
+2018-02-24 14:04:13 TRACE ERSystemDAOJDBC:130 - method called to select tickets by status id #1
+2018-02-24 14:04:13 TRACE ERSystemDAOJDBC:131 - Attempting to get connection to db
+2018-02-24 14:09:41 TRACE ERSystemDAOJDBC:85 - method called to select tickets by author id #2
+2018-02-24 14:09:41 TRACE ERSystemDAOJDBC:86 - Attempting to get connection to db
+2018-02-24 14:10:36 TRACE ERSystemDAOJDBC:85 - method called to select tickets by author id #3
+2018-02-24 14:10:36 TRACE ERSystemDAOJDBC:86 - Attempting to get connection to db
+2018-02-24 14:11:29 TRACE ERSystemDAOJDBC:134 - method called to select tickets by status id #1
+2018-02-24 14:11:29 TRACE ERSystemDAOJDBC:135 - Attempting to get connection to db
+2018-02-24 14:25:39 TRACE ERSystemDAOJDBC:134 - method called to select tickets by status id #1
+2018-02-24 14:25:39 TRACE ERSystemDAOJDBC:135 - Attempting to get connection to db
+2018-02-24 14:32:41 TRACE ERSystemDAOJDBC:84 - method called to select tickets by author id #3
+2018-02-24 14:32:41 TRACE ERSystemDAOJDBC:85 - Attempting to get connection to db
+2018-02-24 14:33:07 TRACE ERSystemDAOJDBC:106 - method called to select all tickets
+2018-02-24 14:33:07 TRACE ERSystemDAOJDBC:107 - Attempting to get connection to db
+2018-02-24 14:33:39 TRACE ERSystemDAOJDBC:127 - method called to select tickets by status id #1
+2018-02-24 14:33:39 TRACE ERSystemDAOJDBC:128 - Attempting to get connection to db
+2018-02-24 14:37:07 TRACE ERSystemDAOJDBC:37 - method called to insert new ticket
+2018-02-24 14:37:07 TRACE ERSystemDAOJDBC:38 - Attempting to get connection to db
+2018-02-24 14:37:08 TRACE ERSystemDAOJDBC:40 - connection established with db, creating prepared statement
+2018-02-24 14:37:08 DEBUG ERSystemDAOJDBC:52 - query inserted 1 rows into the db
