@@ -49,9 +49,6 @@ public class LoginServlet extends DefaultServlet  {
             throws IOException, ServletException {
         log.info("post request made");
         
-//        String username = request.getParameter("username");
-//        String password = request.getParameter("password"); 
-        
         String json = request.getReader().lines().reduce((acc, cur) -> acc + cur).get();
 		log.trace("json " + json);
         ObjectMapper om = new ObjectMapper();
@@ -65,9 +62,9 @@ public class LoginServlet extends DefaultServlet  {
         		String respJson = om.writeValueAsString(user);
     			response.getWriter().write(respJson);
         		if(user.getUserRoleId() == 1) {
-        			//response.sendRedirect(request.getContextPath() + "/employee-home.html");
+        			response.sendRedirect(request.getContextPath() + "/employee-home.html");
         		} else if(user.getUserRoleId() == 2) {
-        			//response.sendRedirect(request.getContextPath() + "/manager-home.html");
+        			response.sendRedirect(request.getContextPath() + "/manager-home.html");
         		}
         } else {
     			request.getRequestDispatcher("/index.html").forward(request, response);
